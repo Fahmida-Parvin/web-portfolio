@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+background-image: url(img/raih.jpeg);
+background-repeat: no-repeat;
+border-image-width: 400px;
+background-size: 100%;
+margin: 20px;
+
+}
+.dream{
+    background-image: url(img/loo.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+    float: none;
+
+
+}
+.experience{
+    background-image: url(img/don.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    
+}
+p{
+    color: brown;
+
+    background-size: 300px;
+}
+.ki{
+    color: brown;
+}
+h1{
+    font-size: 50px;
+
+}
+.highlight{
+    color: rgb(29, 151, 94);
+}
+.banner{
+    color: 78px solid green;
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+h2{
+    font-size: 40px;
+}
+    section{
+
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration:none;
+    background-color: rgb(97, 212, 97); 
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700px;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px rgb(164, 218, 164);
+    border-radius: 50px;
+    height: 50%;
+    background-color: white;
+}
+#baby{
+    border-left: 5px solid;
+    border-image: linear-gradient(lightsalmon,tomato );
+    border-image-slice: 1px;
+}
+footer p{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.514) ;
+    font-size: 13px;
+}
